@@ -1,0 +1,16 @@
+So when I try to run >>> TRXC.traverse_tree('StatementOfFinancialPositionClassified')
+I get :
+
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "DataViewer.py", line 72, in traverse_tree
+    base = self.data[cat]['roles'][name]
+KeyError: 'StatementOfFinancialPositionClassified'
+>>> 
+
+
+When I run: >>> TRXC.traverse_all_trees()
+
+I get all the data.
+
+What is the meaning of cat = pre on line 72 of dataviewer?
