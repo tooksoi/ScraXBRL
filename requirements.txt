@@ -64,7 +64,7 @@ system-service==0.1.6
 tables==3.1.1
 ubuntu-tweak==0.8.8
 unity-lens-photos==1.0
-urllib3==1.7.1
+urllib3==1.26.5
 wget==3.2
 wheel==0.24.0
 wsgiref==0.1.2
