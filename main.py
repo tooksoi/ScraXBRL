@@ -3,7 +3,7 @@ import EdgarScrape
 import XMLExtract
 import os
 import threading
-import Queue
+import queue
 import time
 import requests
 import sys
@@ -23,7 +23,7 @@ class ScrapeAndExtract:
 		
 		#Extract Section
 		self.extracted_keys = None
-		self.to_extract = Queue.Queue()
+		self.to_extract = queue.Queue()
 		
 		self.populate_symbol_keys()
 		self.get_all_keys()
