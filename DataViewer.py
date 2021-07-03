@@ -6,7 +6,8 @@ import pickle
 class DataView:
 	
 	def __init__(self, symbol, date, ftype):
-		self.symbol = symbol
+		#self.symbol = symbol
+		self.symbol = "AMZN"
 		self.date = date
 		self.ftype = ftype
 		self.data = None
