@@ -11,7 +11,7 @@ chardet==2.0.1
 colorama==0.2.5
 command-not-found==0.3
 compizconfig-python==0.9.11.3
-cvxopt==1.1.4
+cvxopt==1.2.7
 debtagshw==0.1
 decorator==3.4.0
 defer==1.0.6
