@@ -1,5 +1,5 @@
 PAM==0.4.2
-Pillow==2.3.0
+Pillow==9.0.1
 Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 adium-theme-ubuntu==0.3.4
