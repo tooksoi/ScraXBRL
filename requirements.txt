@@ -52,7 +52,7 @@ python-debian==0.1.21-nmu2ubuntu2
 python-xbrl==1.1.0
 pytz==2012c
 pyxdg==0.25
-reportlab==3.0
+reportlab==3.5.55
 requests==2.2.1
 scipy==0.13.3
 sessioninstaller==0.0.0
