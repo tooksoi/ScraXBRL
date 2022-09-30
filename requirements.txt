@@ -20,7 +20,7 @@ dnspython==1.11.1
 duplicity==0.6.23
 html5lib==0.999
 httplib2==0.8
-joblib==0.7.1
+joblib==1.2.0
 lockfile==0.8
 lxml==3.3.3
 marshmallow==1.2.6
